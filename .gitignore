@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Виртуальное окружение
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Файлы ОС
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Логи и отладочные файлы
+*.log
+*.tmp
+
+# Секреты и настройки
+.env
+config.local.py
